@@ -159,6 +159,7 @@ If the best variant is a closed source variant I will link the closed source and
 
 ### Editor ⛔️
 
+- ✨ [Slay PDF](https://slaypdf.com/) *(Browser)*
 - ✨ [LibreOffice Draw](https://www.libreoffice.org) *(Windows, Mac, Linux)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(Windows)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
